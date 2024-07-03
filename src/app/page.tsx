@@ -1,5 +1,4 @@
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
-// import ThemeSwitch from '../components/ThemeSwitch';
 import { Check, Star } from 'lucide-react';
 import Phone from '@/components/Phone';
 import { Icons } from '@/components/Icons';

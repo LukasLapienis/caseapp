@@ -3,7 +3,6 @@ import { Check, Star } from 'lucide-react';
 import Phone from '@/components/Phone';
 import { Icons } from '@/components/Icons';
 import { Reviews } from '@/components/Reviews';
-import Image from 'next/image';
 
 export default function Home() {
   return (

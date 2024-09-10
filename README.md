@@ -1,1 +1,1 @@
-Case app project
+Case app
